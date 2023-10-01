@@ -31,18 +31,7 @@ One of the key algorithms in **Circle the Cat** is the search algorithm used by 
 To start playing **Circle the Cat**, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Build and run the game using the provided codebase.
-3. Take turns with the computer to block and maneuver the cat.
-4. Try to surround the cat before it escapes through the threshold tiles.
+2. Compile the source code using a C++ compiler.
+3. Run the compiled executable.
 
-## Contributions
 
-We welcome contributions to improve and enhance **Circle the Cat**. If you have ideas for new features, bug fixes, or optimizations, please feel free to create a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Enjoy playing **Circle the Cat** and have fun testing your strategic skills against our elusive feline opponent!
-
-![Play Now](insert_play_button_here.png)
